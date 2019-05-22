@@ -1,4 +1,4 @@
-## Código de Conduta do I Seminário de Peritos Forenses Computacionais
+## Código de Conduta do I Seminário de Computação Forense & Perícia Digital
 
 O **PERITO.inf.br** está comprometido em oferecer eventos livres de discriminação para todos, independente de gênero, identidade e expressão de gênero, orientação sexual, deficiência, aparência física, raça, idade, origem ou religião.
 Não será tolerado, sob nenhuma circunstância, o constrangimento de participantes em eventos da comunidade.
